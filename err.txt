@@ -1,0 +1,4 @@
+2022-09-06 16:19:04,395 [DEBUG] [220]}–Ê“`‘—ŒŸõ:,ELENA-‡U,PYWQ4214,,,,,'list' object has no attribute 'send_keys'
+2022-09-06 16:19:04,398 [DEBUG] [230]}–Ê“`‘—ƒ_ƒEƒ“ƒ[ƒh:,ELENA-‡U,PYWQ4214,,,,,'CrawlElena' object has no attribute 'move_to_new_window'
+2022-09-06 16:19:14,855 [DEBUG] [200]}–Ê“`‘—:,ELENA-‡U,PYWQ4214,,,,,Message: 
+
